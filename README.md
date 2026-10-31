@@ -40,20 +40,23 @@ Clouds and ash hid the lava on many Sentinel-2 days, so I also looked at **Senti
 which sees through cloud, smoke and darkness. Radar doesn't see heat; it sees **texture**:
 rough surfaces look bright, smooth surfaces look dark.
 
-## | Before (16 Sept 2021) | 
+## | Before (16 Sept 2021) | Even, grainy grey texture around Las Manchas, Los Campitos and Tacande
+- Clean coastline west of Las Norias.
 <img width="1470" height="877" alt="Sentinel-1 IW VV+VH 16-09-2021" src="https://github.com/user-attachments/assets/3ca74034-fea1-4820-acbc-4005fd467b26" />
 
-## | During (21 Nov 2021) |
+## | During (21 Nov 2021) |**New land** on the coast west of Las Norias, where lava reached the sea and built a lava delta.
 <img width="1470" height="877" alt="Sentinel-1 IW VV+VH 21-11-2021" src="https://github.com/user-attachments/assets/c2fde0e5-4254-4b3f-b1f2-669a15299153" />
 
 ## | After (27 Dec 2021) |
 <img width="1470" height="877" alt="Sentinel-1 IW VV+VH 27-12-2021" src="https://github.com/user-attachments/assets/e5f2936f-6d44-44e9-b942-884ad899efcc" />
 
+## Cone Formation 
+## | Before (16 Sept 2021) | No volcano yet. The map markers show where the new cone is about to form.
+<img width="1470" height="877" alt="Sentinel-1 IW VV+VH Cone 09-16-21" src="https://github.com/user-attachments/assets/83a930e2-37dc-460a-9b5d-c789726fc510" />
 
-**What changed:**
-- The area west of the vent turned **dark and smooth**: ash and lava buried the textured farmland and villages.
-- **New land** appeared on the coast west of Las Norias, where lava reached the sea and built a lava delta.
--  Radar caught the **new cone** formation through the clouds, when Sentinel-2 couldn't.
+## | During (21 Nov 2021) | The **new cone** appears as a bright arc (the side facing the satellite) with a dark "radar shadow" behind it.
+<img width="1470" height="877" alt="Sentinel-1 IW VV+VH Cone 11-21-21" src="https://github.com/user-attachments/assets/5106af02-8fe2-4f56-b311-f3ca8b3c2c65" />
+
 
 **Lesson learned:** radar images taken from different orbit directions have different shadows.
 I first compared 16 Sept with 31 Dec and the hill shadows had flipped. 16 Sept and 27 Dec
