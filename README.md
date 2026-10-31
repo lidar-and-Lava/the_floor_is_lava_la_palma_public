@@ -41,9 +41,9 @@ which sees through cloud, smoke and darkness. Radar doesn't see heat; it sees **
 rough surfaces look bright, smooth surfaces look dark.
 
 | Before (16 Sept 2021) | After (27 Dec 2021) |
-|---|---|
-(<img width="1470" height="877" alt="Sentinel-1 IW VV+VH 16-09-2021" src="https://github.com/user-attachments/assets/3ca74034-fea1-4820-acbc-4005fd467b26" />
-(<img width="1470" height="877" alt="Sentinel-1 IW VV+VH 27-12-2021" src="https://github.com/user-attachments/assets/e5f2936f-6d44-44e9-b942-884ad899efcc" />
+
+<img width="1470" height="877" alt="Sentinel-1 IW VV+VH 16-09-2021" src="https://github.com/user-attachments/assets/3ca74034-fea1-4820-acbc-4005fd467b26" />
+<img width="1470" height="877" alt="Sentinel-1 IW VV+VH 27-12-2021" src="https://github.com/user-attachments/assets/e5f2936f-6d44-44e9-b942-884ad899efcc" />
 
 
 **What changed:**
