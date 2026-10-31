@@ -33,7 +33,7 @@ Hot lava appears red to yellow, and vegetation appears blue, because plants are 
 - **Clouds and ash** hide the lava on many days. Some frames show mostly cloud.
 - **Only active lava glows.** Lava that has cooled stops showing in SWIR, so the glow shows where lava is *flowing*, not the full area covered.
 - **Brightness varies between images**, because each one is contrast-stretched on its own.
-- 
+  
 ## Tools
 
 Python · pystac-client · odc-stac · xarray · numpy · matplotlib · Google Colab
