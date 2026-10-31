@@ -8,7 +8,7 @@ Watching the 2021 La Palma eruption from space, using Sentinel-2 satellite image
 
 On 19 September 2021, a new volcano (now named Tajogaite) erupted on La Palma in the Canary Islands. It erupted for 85 days, until 13 December 2021, sending lava west across the island and into the sea.
 
-This project tracks the eruption in **shortwave infrared (SWIR)**. Hot lava glows strongly at SWIR wavelengths, so active flows show up bright orange-red, even through thin smoke. The gallery runs from **15 September 2021** (four days before the eruption: no glow) to **December 2021** (after it ended: a cooled black scar).
+This project tracks the eruption in **shortwave infrared (SWIR)**. Hot lava glows strongly at SWIR wavelengths, so active flows show up bright orange-red, even through thin smoke. The gallery runs from **15 September 2021** (four days before the eruption: no glow) to **December 2021**.
 
 ## How it works
 
