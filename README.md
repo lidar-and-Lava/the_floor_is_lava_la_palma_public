@@ -40,9 +40,13 @@ Clouds and ash hid the lava on many Sentinel-2 days, so I also looked at **Senti
 which sees through cloud, smoke and darkness. Radar doesn't see heat; it sees **texture**:
 rough surfaces look bright, smooth surfaces look dark.
 
-| Before (16 Sept 2021) | After (27 Dec 2021) |
-
+## | Before (16 Sept 2021) | 
 <img width="1470" height="877" alt="Sentinel-1 IW VV+VH 16-09-2021" src="https://github.com/user-attachments/assets/3ca74034-fea1-4820-acbc-4005fd467b26" />
+
+## | During (21 Nov 2021) |
+<img width="1470" height="877" alt="Sentinel-1 IW VV+VH 21-11-2021" src="https://github.com/user-attachments/assets/c2fde0e5-4254-4b3f-b1f2-669a15299153" />
+
+## | After (27 Dec 2021) |
 <img width="1470" height="877" alt="Sentinel-1 IW VV+VH 27-12-2021" src="https://github.com/user-attachments/assets/e5f2936f-6d44-44e9-b942-884ad899efcc" />
 
 
