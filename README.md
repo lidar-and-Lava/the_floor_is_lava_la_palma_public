@@ -33,7 +33,31 @@ Hot lava appears red to yellow, and vegetation appears blue, because plants are 
 - **Clouds and ash** hide the lava on many days. Some frames show mostly cloud.
 - **Only active lava glows.** Lava that has cooled stops showing in SWIR, so the glow shows where lava is *flowing*, not the full area covered.
 - **Brightness varies between images**, because each one is contrast-stretched on its own.
+
+ ## Seeing through the clouds: radar (Sentinel-1)
+
+Clouds and ash hid the lava on many Sentinel-2 days, so I also looked at **Sentinel-1 radar**,
+which sees through cloud, smoke and darkness. Radar doesn't see heat; it sees **texture**:
+rough surfaces look bright, smooth surfaces look dark.
+
+| Before (16 Sept 2021) | After (27 Dec 2021) |
+|---|---|
+(<img width="1470" height="877" alt="Sentinel-1 IW VV+VH 16-09-2021" src="https://github.com/user-attachments/assets/3ca74034-fea1-4820-acbc-4005fd467b26" />
+(<img width="1470" height="877" alt="Sentinel-1 IW VV+VH 27-12-2021" src="https://github.com/user-attachments/assets/e5f2936f-6d44-44e9-b942-884ad899efcc" />
+
+
+**What changed:**
+- The area west of the vent turned **dark and smooth**: ash and lava buried the textured farmland and villages.
+- **New land** appeared on the coast west of Las Norias, where lava reached the sea and built a lava delta.
+-  Radar caught the **new cone** formation through the clouds, when Sentinel-2 couldn't.
+
+**Lesson learned:** radar images taken from different orbit directions have different shadows.
+I first compared 16 Sept with 31 Dec and the hill shadows had flipped. 16 Sept and 27 Dec
+are from the same orbit, so the differences are real change, not viewing angle.
+
+*Radar images: Copernicus Sentinel-1 data (2021), viewed in Copernicus Browser. Map labels © OpenStreetMap contributors.*
   
 ## Tools
 
-Python · pystac-client · odc-stac · xarray · numpy · matplotlib · Google Colab
+**SWIR (Sentinel-2):** Python · pystac-client · odc-stac · xarray · numpy · matplotlib · Google Colab
+**Radar (Sentinel-1):** Copernicus Browser (Copernicus Data Space Ecosystem): Sentinel-1 IW, VV polarisation, decibel gamma0, orthorectified
